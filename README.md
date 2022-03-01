@@ -13,7 +13,6 @@
 - 💚 &nbsp; Meu primeiro passo rumo à área de programação foi em um curso simples de Lógica de programação, lá mesmo eu percebi que estava indo no rumo correto. 
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e sempre estou estudando algo novo, Atualumente utilizo as stacks JavaScript e Python (Node, React & Vue || Django, Flask, PyTest) para desenvolver, porém meus estudos não se limitam a isso, e atualmente estou estudando CSharp e pretendo estudar IA logo menos!
 - ⚽ &nbsp; Sou apaixonado por coisas que tem sua beleza própria, gosto de desenhar e ouvir músicas, e costumo jogar no meu tempo livre e praticar exercicios, são ótimos para exercitar cabeça, alma e corpo!
-- 💵 &nbsp; 
 
 <h2> 💭 &nbsp; Pequeno pensador de grandes soluções; </h2>
 
