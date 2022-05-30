@@ -40,4 +40,4 @@
 ![Leandro Lino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrolino&show_icons=true&theme=dark)
 ![Leandro Lino's GitHub Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolino&layout=compact&langs_count=7&theme=dark)
 
-(https://profile-counter.glitch.me/---/count.svg)
+![Visitors](https://profile-counter.glitch.me/LeandroLino/count.svg)
