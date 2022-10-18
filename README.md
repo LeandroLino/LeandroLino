@@ -28,12 +28,14 @@
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Clojure](https://img.shields.io/badge/-clojure-333333?style=flat&logo=clojure&logoColor=129c00)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=f7cd39)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=2aa473)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=E535AB)
+
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
